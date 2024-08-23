@@ -1,5 +1,9 @@
 # Financial-Analysis-Dashboard
 PowerBI Dashboard Project
+
+https://github.com/SaurabhShah14/Financial-Analysis-Dashboard/blob/main/1702366337690.jpg
+
+
 Use Power BI's Power Query Editor for data cleaning, I transformed raw data into actionable insights. 🚀 This project showcases my skills in data engineering and visualization.
 
 👁️‍🗨Key Performance Indicators (KPIs) such as Total Revenue, Total Country, Total Transaction are seamlessly presented.
